@@ -1,5 +1,5 @@
 #!/bin/bash
-#Githunt written by hackergautam
+#Kudos to hackergautam(Hacktify Cyber Security)
 
 
 #Dependecies Installation
